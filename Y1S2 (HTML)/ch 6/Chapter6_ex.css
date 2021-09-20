@@ -1,0 +1,36 @@
+.q1 {
+float: left;
+background-color: #d9c09e;
+font-family: "Verdana";
+font-size: large;
+padding-left: 20px;
+}
+
+.q2 {
+text-decoration-style: dotted;
+color: blue;
+}
+
+.q3 {
+position: absolute;
+top: 20px; right: 40px;
+background-color: #808080;
+border-style: solid;
+}
+
+.q4 {
+position: relative;
+left: 20px;
+background-color: #00FF00;
+}
+
+.q5 {
+position: fixed;
+background-color: #d9c09e;
+font-weight: bold;
+padding-left: 10px;
+}
+
+.q6 {
+list-style-image: url('myimage.gif');
+}

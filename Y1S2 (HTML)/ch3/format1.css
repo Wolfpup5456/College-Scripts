@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+/*body coloring would not work no matter what without this tag*/
+#DummyElement { color:white ; }
+
+body {
+background-color: white;
+color: #000099;
+font-family: "sans-serif", Times, serif;
+}
+
+a:link {
+background-color: #cccccc;
+}
+
+h1 {
+font-family: "Times New Roman", Times, serif;
+color: red;
+}
+
+</style>
+</head>
+</html>
